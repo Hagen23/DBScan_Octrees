@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DBScanOctrees_VS", "DBScanOctrees_VS\DBScanOctrees_VS.vcxproj", "{04788B5F-3B12-4DE1-B0AB-6CDF3FAD49B9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DBScan_Sequential", "DBScan_Sequential\DBScan_Sequential.vcxproj", "{D02593B7-6AEA-41A4-961C-CF1DD71E30EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04788B5F-3B12-4DE1-B0AB-6CDF3FAD49B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04788B5F-3B12-4DE1-B0AB-6CDF3FAD49B9}.Debug|Win32.Build.0 = Debug|Win32
+		{04788B5F-3B12-4DE1-B0AB-6CDF3FAD49B9}.Release|Win32.ActiveCfg = Release|Win32
+		{04788B5F-3B12-4DE1-B0AB-6CDF3FAD49B9}.Release|Win32.Build.0 = Release|Win32
+		{D02593B7-6AEA-41A4-961C-CF1DD71E30EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D02593B7-6AEA-41A4-961C-CF1DD71E30EB}.Debug|Win32.Build.0 = Debug|Win32
+		{D02593B7-6AEA-41A4-961C-CF1DD71E30EB}.Release|Win32.ActiveCfg = Release|Win32
+		{D02593B7-6AEA-41A4-961C-CF1DD71E30EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
