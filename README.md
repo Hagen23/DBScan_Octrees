@@ -1,4 +1,4 @@
-# DBScan_Octrees
+# DBScan Octrees
 DBScan algorithm implemented using Octrees to cluster 3D points in a space.
 
 Navarro-Hinojosa, Octavio, y Moisés Alencastre-Miranda. "DBSCAN modificado
